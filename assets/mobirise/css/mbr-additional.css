@@ -942,22 +942,6 @@ a:hover {
 #header1-1v .mbr-table-cell {
   vertical-align: bottom;
 }
-#msg-box3-1x H1 {
-  color: #ffffff;
-}
-#msg-box3-1x P {
-  color: #ffffff;
-}
-#msg-box4-1y H1 {
-  color: #434343;
-}
-#msg-box4-1y P {
-  color: #434343;
-}
-#features6-1z .mbr-iconfont {
-  color: #5aac98;
-  border-color: #5aac98;
-}
 #features4-20 .card {
   background-color: transparent;
   box-shadow: none;
@@ -968,19 +952,6 @@ a:hover {
   line-height: 72px;
 }
 #features4-20 .mbr-iconfont {
-  color: #616161;
-  border-color: #616161;
-}
-#features4-2t .card {
-  background-color: transparent;
-  box-shadow: none;
-  border: none;
-}
-#features4-2t .card-img a {
-  border-width: 2px;
-  line-height: 72px;
-}
-#features4-2t .mbr-iconfont {
   color: #616161;
   border-color: #616161;
 }
@@ -1007,18 +978,8 @@ a:hover {
 #features21-2s .mbr-table-cell {
   vertical-align: middle;
 }
-#pricing-table1-2r th.default {
-  background: #6091b7;
-}
-#pricing-table1-2r th.favorite {
-  background: #5aac98;
-}
 #counters2-2q .count {
   color: #74a3c7;
-}
-#content3-25 .mbr-section-title,
-#content3-25 .mbr-section-subtitle {
-  text-align: center;
 }
 #subscribe1-2y .form-control-label {
   color: undefined;
@@ -1091,13 +1052,13 @@ a:hover {
   vertical-align: middle;
 }
 #footer2-2k .footer-list {
-  color: #74a3c7;
+  color: #dfd9ca;
 }
 #footer2-2k .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
+  border-color: #dfd9ca;
+  color: #dfd9ca;
 }
 #footer2-2k .btn-social:hover {
-  background: #74a3c7;
+  background: #dfd9ca;
   color: #fff;
 }

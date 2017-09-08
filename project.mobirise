@@ -18,7 +18,8 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "4.1.7",
     "uniqCompNum": 115,
@@ -110,14 +111,16 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header3-1w\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#features4-20\">MISSION &amp; OBJECTIVES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery1-2a\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form3-2g\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/slide0001-image014.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -141,7 +144,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/044.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/048.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -1693,15 +1696,15 @@
           "_params": {
             "showIcons": true,
             "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
+            "listColor": "#dfd9ca",
+            "btnColor": "#dfd9ca",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -1710,7 +1713,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "Copyright 2016, {{org.name}}. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
           "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
@@ -1869,14 +1872,16 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header3-1w\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#features4-20\">MISSION &amp; OBJECTIVES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery1-2a\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form3-2g\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/slide0001-image014.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1900,7 +1905,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/044.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/048.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -3452,15 +3457,15 @@
           "_params": {
             "showIcons": true,
             "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
+            "listColor": "#dfd9ca",
+            "btnColor": "#dfd9ca",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -3469,7 +3474,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "Copyright 2016, {{org.name}}. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
           "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
@@ -3628,14 +3633,16 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-1\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header1-1v\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#header3-1w\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#features4-20\">MISSION &amp; OBJECTIVES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery1-2a\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form3-2g\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/slide0001-image014.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3659,8 +3666,8 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/044.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/048.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
             "bgVideoRadio": false,
@@ -3669,10 +3676,10 @@
             },
             "overlay": true,
             "overlayColor": "#264a54",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.4"
           },
-          "title": "VSS",
-          "text": "<b>GROUP OF COMPANIES\n</b><br><br><i>Where Quality is Paramount,\n</i><br>\n<br>Safety is Priority\n<br>&amp;\n<br>Punctuality is Virtue&nbsp;<br>",
+          "title": "VSS GROUP OF COMPANIES",
+          "text": "Where Quality is Paramount<br>Safety is Priority\n<br>&amp;\n<br>Punctuality is Virtue&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Introduction</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "_tags": [
             "Theme"
@@ -3833,286 +3840,6 @@
           "_anchor": "header3-1w"
         },
         {
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "inverse": false,
-            "showIcons": true,
-            "iconsBorder": true,
-            "iconsColor": "#ffffff",
-            "iconsNumber": "two",
-            "imageSize": 50,
-            "containerColor1": "#ff3424",
-            "containerColor2": "#ffe541",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "title": "Beautiful mobile websites",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly websites (officially)!",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
-          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mac2.png"
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "timer",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1x"
-        },
-        {
-          "_styles": {
-            "H1": {
-              "color": "#434343"
-            },
-            "P": {
-              "color": "#434343"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "inverse": true,
-            "showIcons": true,
-            "iconsBorder": true,
-            "iconsColor": "#434343",
-            "iconsNumber": "two",
-            "imageSize": 50,
-            "containerColor1": "#1cb4a9",
-            "containerColor2": "#bef50a",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "title": "Beautiful mobile websites",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly websites (officially)!",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
-          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/macbook2.png"
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "timer",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1y"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "showHeading": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "columns": 3,
-            "iconsBgColor": "@primaryColor",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": 0.95
-          },
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch",
-              "link": "https://mobirise.com",
-              "size": 48,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "Touch!",
-          "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch-swipe",
-              "link": "https://mobirise.com",
-              "size": 48,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "Swipe!",
-          "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 48,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "Responsive!",
-          "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "size": 48,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "_anchor": "features6-1z"
-        },
-        {
           "_inherit": "features2",
           "_styles": {
             ".card": {
@@ -4159,8 +3886,8 @@
           "_tags": [
             "Theme"
           ],
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "title": "MISSION &amp; VISION",
+          "text": "VSS BUILDCON PVT LTD, promises with its clients to  ensure their complete satisfaction with the entire   design\n<br>and construction experience. This not only means that  we deliver a high quality building, on time and on budget,  but that clients will have complete confidence and peace  of mind throughout the process of working with us, that  all risks have been managed and all reasonable  contingencies planned for.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
@@ -4172,9 +3899,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title1": "What is Mobirise",
+          "title1": "Our values integrity",
           "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text1": "our practices are honest; our  conduct is legal and ethical. Although we are motivated  by a fair return on our investment, we are always striving  for Quality Service with our clients&nbsp;",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -4186,9 +3913,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title2": "What is Mobirise",
+          "title2": "Memorial&nbsp;",
           "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text2": "our desire to design and build memorial  structures  that  add  value  to  the  communities  in which\n<br>they are built and assist cemetery owners in keeping the  promise of perpetuity that they have made to their lot  holders team are enrich experienced for civil  constructions.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -4200,9 +3927,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title3": "What is Mobirise",
+          "title3": "Committment",
           "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text3": "We are committed to effectively communicating to our  customers the benefits of the design/build process, and  poured-in-place construction methodology. We will  ensure that our clients receive real and measurable value  from our enrich experience.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -4285,115 +4012,6 @@
           ],
           "_name": "features1",
           "_anchor": "features1-2u"
-        },
-        {
-          "_inherit": "features2",
-          "_styles": {
-            ".card": {
-              "background-color": "transparent",
-              "box-shadow": "none",
-              "border": "none"
-            },
-            ".card-img a": {
-              "border-width": "2px",
-              "line-height": "72px"
-            },
-            ".mbr-iconfont": {
-              "color": "#616161",
-              "border-color": "#616161"
-            }
-          },
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showHeading": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "contentAlign": "center",
-            "columns": 3,
-            "showFeaturesImages": true,
-            "iconsBgColor": "#616161",
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/features4.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": 0.8
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "What is Mobirise",
-          "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "What is Mobirise",
-          "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "setting",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "What is Mobirise",
-          "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_name": "features4",
-          "_anchor": "features4-2t"
         },
         {
           "_styles": {
@@ -4860,98 +4478,6 @@
         },
         {
           "_styles": {
-            "th.default": {
-              "background": "#6091b7"
-            },
-            "th.favorite": {
-              "background": "#5aac98"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "columns": 2,
-            "firstType": "caption",
-            "secondType": "favorite",
-            "thirdType": "default",
-            "fourthType": "default",
-            "defaultColor": "#6091b7",
-            "favoriteColor": "#5aac98",
-            "rows": 4,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Pricing table",
-          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla maxime aspernatur inventore, magnam expedita sequi cum, eius debitis nihil. Aspernatur, incidunt distinctio odio sint, quos non magni neque vel, debitis tenetur deserunt ea cum harum molestias vitae. Veritatis praesentium placeat soluta impedit, distinctio aliquid, officiis labore, facilis eius quia, repudiandae!",
-          "title1": "Plan",
-          "title2": "Business",
-          "title3": "Premium",
-          "title4": "Ultimate",
-          "currency": "$",
-          "text11": "Price",
-          "text12": "Storage",
-          "text13": "Users",
-          "text14": "Connection",
-          "text15": "Description",
-          "text16": "Nesciunt! ipsum dolor.",
-          "text17": "Loipsa. consectetur.",
-          "text18": "Lorensectetur, omnis.",
-          "text19": "Lorem ipsa, nobis.",
-          "text211": "<span class=\"price\">19</span>",
-          "text212": "<br>per Month",
-          "text22": "8GB Storage",
-          "text23": "4 Users",
-          "text24": "15 GB bandwidth",
-          "text25": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "text26": "Nesciunt! ipsum dolor.",
-          "text27": "Loipsa. consectetur.",
-          "text28": "Lorensectetur, omnis.",
-          "text29": "Lorem ipsa, nobis.",
-          "text311": "<span class=\"price\">29</span>",
-          "text312": "<br>per Month",
-          "text32": "16GB Storage",
-          "text33": "10 Users",
-          "text34": "15 GB bandwidth",
-          "text35": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "text36": "Nesciunt! ipsum dolor.",
-          "text37": "Loipsa. consectetur.",
-          "text38": "Lorensectetur, omnis.",
-          "text39": "Lorem ipsa, nobis.",
-          "text411": "<span class=\"price\">39</span>",
-          "text412": "<br>per Month",
-          "text42": "32GB Storage",
-          "text43": "Unlimited Users",
-          "text44": "15 GB bandwidth",
-          "text45": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "text46": "Nesciunt! ipsum dolor.",
-          "text47": "Loipsa. consectetur.",
-          "text48": "Lorensectetur, omnis.",
-          "text49": "Lorem ipsa, nobis.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary-outline\">Buy now!</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-black-outline\">Buy now!</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-warning-outline\">Buy now!</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-danger-outline\">Buy now!</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-2r"
-        },
-        {
-          "_styles": {
             ".count": {
               "color": "#74a3c7"
             }
@@ -4991,52 +4517,6 @@
           ],
           "_name": "counters2",
           "_anchor": "counters2-2q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgColor": "#fff"
-          },
-          "title": "{{site.getSection(\"about\").name}}",
-          "meta": "{{site.getSection(\"about\").headline}}",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-25"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>{{site.getSection(\"about\").description|raw}}</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-26"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-2p"
         },
         {
           "_params": {
@@ -5135,28 +4615,6 @@
           "_styles": {
             ".form-control-label": {}
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9
-          },
-          "text": "+1 234 576-89-00",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">Call us</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "share2",
-          "_anchor": "share2-2z"
         },
         {
           "_styles": {
@@ -5288,7 +4746,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/065.jpg"
+              "src": "@PROJECT_PATH@/assets/images/069.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -5335,7 +4793,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/065.jpg"
+              "src": "@PROJECT_PATH@/assets/images/069.jpg"
             },
             "video": {
               "active": true,
@@ -5392,7 +4850,7 @@
             "image": {
               "active": false,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/065.jpg"
+              "src": "@PROJECT_PATH@/assets/images/069.jpg"
             },
             "video": {
               "active": true,
@@ -5439,7 +4897,7 @@
             "image": {
               "active": false,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/065.jpg"
+              "src": "@PROJECT_PATH@/assets/images/069.jpg"
             },
             "video": {
               "active": true,
@@ -5485,10 +4943,10 @@
             "showText": true,
             "showButtons": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "containerColor1": "#084a6e",
             "containerColor2": "#24a383",
             "bgVideoRadio": false,
@@ -6186,8 +5644,8 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "{{site.getSection(\"team\").headline}}",
-          "text": "Our TEAM",
+          "title": "DIRECTORS OF THE COMPANY &nbsp;",
+          "text": "Our MANAGEMENT TEAM",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "image": {
@@ -6202,9 +5660,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title1": "What is Mobirise",
+          "title1": "VINAY SRIVASTAV",
           "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac",
+          "text1": "(MANAGING DIRECTOR)\n<br>Enrich Experience above 20 years in Residential, Commercial, Industrial  and\n<br>Road Work Projects all over India.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "image": {
@@ -6219,9 +5677,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title2": "Is it good for me?",
+          "title2": "VIVEK SINHA &nbsp;&nbsp;",
           "subtitle2": "Awesome",
-          "text2": "Minimalistic, extremely easy-to-use interface",
+          "text2": "(EXECUTIVE DIRECTOR)\n<br>Experience above 20 years in Residential, Commercial, Industrial and Road\n<br>Work Project all over India.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "image": {
@@ -6236,9 +5694,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title3": "Why Mobirise?",
+          "title3": "VIVEK SHUKLA",
           "subtitle3": "Awesome",
-          "text3": "Free for commercial and non-profit use",
+          "text3": "(EXECUTIVE DIRECTOR)\n<br>Experience above 20 years in Residential, Commercial, Industrial and Road\n<br>Work Project all over India.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -6255,9 +5713,10 @@
         {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Vardhman Mayur Market, Pocket 6, Back to MIG  Mayur Vihar, Phase III, New Delhi \n",
+              "placeId": "ChIJl5ZFJOHkDDkRKnWBceEiNr4",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
@@ -6305,8 +5764,8 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "Send your suggestions",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "title": "Send your enquiries &amp; suggestions",
+          "text": "Always at your terms",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
           "form": {
@@ -6510,12 +5969,12 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "+1 234 576-89-00",
-          "text2": "+9 876 543-21-00",
-          "title1": "Eindhoven, 5657 DB, Netherlands",
-          "title2": "350 5th Ave, New York, NY 10118",
+          "text1": "info@vssbuildcon.com www.vssbuildcon.com",
+          "text2": "+91-11-47282243<br><br><div><br></div>",
+          "title1": "VSS BUILDCON PVT LTD&nbsp;<br>205, II Floor, Vardhman Mayur\n<br>Market, Pocket 6, Back to MIG  Mayur Vihar, Phase III\n<br>New Delhi – 110096&nbsp;<br>",
+          "title2": "EMAIL &amp; WEBSITE",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Call us</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+91-11-47282243\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
           "_tags": [
             "Theme"
           ],
@@ -6526,15 +5985,15 @@
           "_params": {
             "showIcons": true,
             "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
+            "listColor": "#dfd9ca",
+            "btnColor": "#dfd9ca",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -6543,7 +6002,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "Copyright 2016, {{org.name}}. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
           "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
@@ -6561,63 +6020,18 @@
           "_name": "footer2",
           "_styles": {
             ".footer-list": {
-              "color": "@infoColor"
+              "color": "#dfd9ca"
             },
             ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
+              "border-color": "#dfd9ca",
+              "color": "#dfd9ca"
             },
             ".btn-social:hover": {
-              "background": "@infoColor",
+              "background": "#dfd9ca",
               "color": "#fff"
             }
           },
           "_anchor": "footer2-2k"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": 58,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/03.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Intro with Media",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2l"
         }
       ]
     }
