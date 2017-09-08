@@ -43,6 +43,13 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: undefined;
 }
+.btn:not(.btn-social) {
+  border-radius: 30px;
+  padding: 17px 50px;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
@@ -393,9 +400,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #000;
-}
-.scrollToTop_wraper {
-  opacity: 0 !important;
 }
 /* DirectM */
 a {
