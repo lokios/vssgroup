@@ -24,7 +24,7 @@
       ]
     },
     "versionFirst": "4.1.7",
-    "uniqCompNum": 118,
+    "uniqCompNum": 120,
     "versionPublish": "4.1.7",
     "favicon": "",
     "noImageResize": "",
@@ -146,7 +146,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/041.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/040.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -1697,7 +1697,7 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": 10,
+            "rows": "1",
             "listColor": "#dfd9ca",
             "btnColor": "#dfd9ca",
             "paddingTop": 1,
@@ -1716,7 +1716,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list1": "<a href=\"http://mobirise.com\">VSS Group</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -1907,7 +1907,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/041.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/040.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -3458,7 +3458,7 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": 10,
+            "rows": "1",
             "listColor": "#dfd9ca",
             "btnColor": "#dfd9ca",
             "paddingTop": 1,
@@ -3477,7 +3477,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list1": "<a href=\"http://mobirise.com\">VSS Group</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -3668,7 +3668,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/041.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/040.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -3727,12 +3727,13 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "mobile",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
+              "size": 40
             }
           },
           "title1": "OUR SISTER CONCERN",
@@ -3741,12 +3742,13 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "responsive",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
+              "size": 40
             }
           },
           "title2": "CERTIFICATE",
@@ -3755,12 +3757,14 @@
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "mobirise",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title3": "QUALITY MANAGEMENT SYSTEM&nbsp;",
@@ -3893,12 +3897,14 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "touch",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title1": "Our values integrity",
@@ -3907,12 +3913,14 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title2": "Memorial&nbsp;",
@@ -3921,12 +3929,14 @@
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "setting",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "hand-peace-o",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title3": "Committment",
@@ -4288,6 +4298,160 @@
           "_anchor": "gallery3-2v"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "Under Construction",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picture21-1327x864.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture21-1327x864-800x520.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "caption": "UPAVP, KANPUR",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture22-1289x877.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture22-1289x877-799x544.png",
+                "caption": "UPAVP, KANPUR",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture22-1289x877.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture22-1289x877-799x544.png",
+                "caption": "UPAVP, KANPUR",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture24-1302x864.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture24-1302x864-800x530.png",
+                "caption": "UPAVP, KANPUR",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture26-1302x864.png",
+                "thumb": "@PROJECT_PATH@/assets/images/picture26-1302x864-800x530.png",
+                "caption": "UPAVP, KANPUR",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture27-1281x772.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picture27-1281x772-800x482.jpg",
+                "caption": "Union Bank of India, Singrauli",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture31-1200x754.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picture31-1200x754-800x502.jpg",
+                "caption": "Development Work and Interior Work at Tura Meghalaya.",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/picture36-1281x902.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picture36-1281x902-800x563.jpg",
+                "caption": "Gorakhpur Development Authority, Gorakhpur\u000b",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-3b"
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -4540,7 +4704,7 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": 10,
+            "rows": "1",
             "listColor": "#dfd9ca",
             "btnColor": "#dfd9ca",
             "paddingTop": 1,
@@ -4559,7 +4723,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2006, VSS GROUP OF COMPANIES",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list1": "<a href=\"http://mobirise.com\">VSS Group</a>",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
